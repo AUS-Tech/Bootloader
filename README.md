@@ -1,3 +1,8 @@
+## AUS V10 Instructions ##
+
+* Execute ./aus_v10_build_upload.bash
+
+
 ## Bootloaders for the PX4 boards ##
 
 [![Build Status](https://travis-ci.org/PX4/Bootloader.svg?branch=master)](https://travis-ci.org/PX4/Bootloader)
@@ -7,3 +12,6 @@
 * Build instructions: Check the Makefile for supported targets
 *   License: LGPL for libopencm3, BSD for core bootloader (see LICENSE.md)
 *   Mailing list: [Google Groups](http://groups.google.com/group/px4users)
+
+
+
