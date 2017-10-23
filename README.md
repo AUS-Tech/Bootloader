@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/AUS-Tech/Bootloader.svg?branch=master)](https://travis-ci.org/AUS-Tech/Bootloader)
+[![Build Status](https://travis-ci.org/AUS-Tech/Bootloader.svg?branch=aus_v10)](https://travis-ci.org/AUS-Tech/Bootloader)
 
 ## AUS V10 Instructions ##
 
