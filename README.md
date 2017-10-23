@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/AUS-Tech/Bootloader.svg?branch=master)](https://travis-ci.org/AUS-Tech/Bootloader)
+
 ## AUS V10 Instructions ##
 
 * Execute ./aus_v10_build_upload.bash
@@ -5,7 +7,7 @@
 
 ## Bootloaders for the PX4 boards ##
 
-[![Build Status](https://travis-ci.org/PX4/Bootloader.svg?branch=master)](https://travis-ci.org/PX4/Bootloader)
+
 
 [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/PX4/Firmware?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
