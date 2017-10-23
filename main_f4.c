@@ -176,6 +176,7 @@ static const struct rcc_clock_scale clock_setup = {
 	.apb2_frequency = 84000000,
 };
 
+
 static uint32_t
 board_get_rtc_signature()
 {
